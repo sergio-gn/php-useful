@@ -1,5 +1,5 @@
 # php-useful
 
 <br/>
-useful built in functions for testing
-<?php var_dump('test'); ?>
+useful built in functions for testing<br/>
+var_dump('test');
