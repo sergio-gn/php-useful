@@ -5,4 +5,4 @@
 
 ### Debugging variable:
 var_dump('test');
-echo '<pre>'; print_r($test); echo '</pre>';
+print_r($test);
